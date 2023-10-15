@@ -1,0 +1,43 @@
+
+body {
+    direction: ltr;
+    background-color: whitesmoke;
+}
+nav.navbar.sticky-top.navbar-expand-md.bg-dark-subtle {
+    height: 55px;
+}
+
+img svg{
+    margin-left: 5px;
+}
+
+svg.bi.bi-cart2 {
+    margin-right: 10px;
+}
+svg.bi.bi-person-circle {
+    margin-right: 20px;
+}
+/*input search*/
+input.form-control.me-2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/* search button*/
+button.btn.btn-dark {
+margin-left: 3px;
+height: 10%;
+margin-top: 5px;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-right: 800px;
+}
+.message{
+    position: sticky;
+    top:0; left:0; right: 0;
+    padding: 15px 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    z-index: 1000;
+    box-shadow: black;
+    
+}

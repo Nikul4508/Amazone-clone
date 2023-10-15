@@ -1,0 +1,55 @@
+
+body {
+    direction: ltr;
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: left;
+}
+nav.navbar.sticky-top.navbar-expand-md.bg-dark-subtle {
+    height: 50px;
+}
+
+
+.card1{
+    margin-right: 20%;
+    border-radius: 1rem;
+    margin-left: 10px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+
+.col-6.col-sm-3 {
+    width: 50%;
+    border-radius: 1rem;
+}
+img.card-img-top {
+    border-radius: 1rem;
+}
+button.btn.btn-danger {
+    margin-right: 270px;
+    margin-top: 10px;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-right: 800px;
+}
+svg.bi.bi-cart2 {
+    margin-right: 10px;
+}
+svg.bi.bi-person-circle {
+    margin-right: 20px;
+}
+/*input search*/
+input.form-control.me-2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/* search button*/
+button.btn.btn-dark {
+margin-left: 3px;
+height: 10%;
+margin-top: 5px;
+}
